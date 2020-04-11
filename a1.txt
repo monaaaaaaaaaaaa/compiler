@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+if(a<10)
+{
+printf("crct");
+
+}

@@ -1,0 +1,50 @@
+#include <stdio.h>
+struct a{
+int b;
+};
+int qw(int a,float x,char b){
+printf(a);
+return a;
+}
+int main()
+{
+int arr[100],b;
+scanf("%d%d",&a,&b);
+printf("%d%d%d",&a,d,e);
+//comment
+switch(a)
+{
+case 1:
+a+b;
+break;
+case 2:
+c+d;
+break;
+default:
+e+f;
+break;
+}
+for(i=0;i<5;i++)
+int a;
+/*while(i<6)
+int a;*/
+scanf("%d",&n);
+if(a>10)
+{int a;}
+else if(b<100)
+{int b;}
+else if(c>100)
+{
+int c;}
+else{
+int zokato,zo;}
+
+if(a>100){
+}
+if(b>12){}
+else{
+int *c;}
+	
+
+}
+
